@@ -1,1 +1,0 @@
-Project consts of 2 parts: a client and a server
